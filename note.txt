@@ -1,0 +1,9 @@
+//gate method
+https://www.itsolutionstuff.com/post/laravel-gates-and-policies-tutorial-with-exampleexample.html
+
+https://cerwyn.medium.com/implementing-authorization-with-policy-gate-middleware-laravel-19ff7a971b34
+https://code.tutsplus.com/tutorials/gates-and-policies-in-laravel--cms-29780
+
+spatie fremwork
+https://www.itsolutionstuff.com/post/laravel-58-user-roles-and-permissions-tutorialexample.html
+https://spatie.be/docs/laravel-permission/v4/introduction
